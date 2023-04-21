@@ -1,0 +1,21 @@
+header {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header ul  {
+    display: flex;
+    gap: 5px;
+}
+
+header ul li {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    padding: 10px 20px; 
+}
+
+header a {
+  color: #111111;  
+}
