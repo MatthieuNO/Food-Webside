@@ -1,0 +1,38 @@
+.section-2 {
+    color: white;
+    background-color: #1a1a1a;
+    padding: 50px;
+}
+
+.section-2 .grid-section-2 {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 375px 375px 375px;
+    height: 375px;
+    grid-gap: 20px;
+}
+
+
+
+.section-2 h6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover; /* pour couvrir toute la zone */
+    background-position: center center; /* pour centrer l'image */
+    font-size: 18px;
+    border-radius: 30px;
+}
+
+.titre-vege {
+    background-image: url(../images/bol-végé.jpeg);
+    
+}
+
+.titre-salad {
+ background-image: url(../images/bol-salad.jpeg);
+}
+
+.titre-pate {
+ background-image: url(../images/bol-pate.jpg);
+}

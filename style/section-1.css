@@ -2,7 +2,7 @@
     background-image: url(../images/bol-végé.jpeg);
     background-size: cover; /* pour couvrir toute la zone */
     background-position: center center; /* pour centrer l'image */
-    height: 866px;
+    height: 100vh;
 }
 
 .section-1 .container-1 {
@@ -16,13 +16,13 @@
 }
 
  .circle h2 {
-    margin: 0px 20px 0px;
+    margin: 10px 20px 0px;
     font-size: 3.75rem;
 }
 
 .section-1 .circle h6 {
     display: flex;
-    margin: 20px 20px 0px 20px;
+    margin: 10px 25px 0px 25px;
     font-size: 18px;
     color: #000;
     width: 120px;
