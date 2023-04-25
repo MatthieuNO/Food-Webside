@@ -1,0 +1,49 @@
+.section-9 {
+    color: white;
+    background-color: #1a1a1a;
+}
+
+.section-9 .container-section-9 {
+    margin: 0 300px;
+}
+
+.section-9 .container-section-9 .container-2-section-9 {
+    display: flex;
+}
+.section-9 .img-section-9 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #99e54d;
+    height: 67px;
+    width: 67px;
+    border-radius: 50px;
+}
+
+.section-9 .cards-section-9 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+}
+.section-9 img {
+    height: 40px;
+    width: 40px;
+    object-fit: contain;
+}
+
+.cards-section-9 p {
+    font-size: 1.125rem;
+    line-height: 2.2;
+    font-weight: 600;
+    margin: 18px 0 0;
+}
+
+.cards-section-9 a {
+    color: #f1ae0e;
+}
+
+
