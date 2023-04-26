@@ -3,11 +3,11 @@
     background-color: #1a1a1a;
 }
 
-.section-9 .container-section-9 {
+.section-9 .container {
     margin: 0 300px;
 }
 
-.section-9 .container-section-9 .container-2-section-9 {
+.section-9 .container .container-2 {
     display: flex;
 }
 .section-9 .img-section-9 {

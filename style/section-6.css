@@ -3,7 +3,7 @@
     background-color: #1a1a1a;
 }
 
-.section-6 .title-section-6 {
+.section-6 .title {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -16,7 +16,6 @@
 .section-6 h2 {
     font-size: 48px;
 }
-
 
 .section-6 p,h6{
     font-size: 18px;
@@ -32,14 +31,14 @@
     object-fit: cover;
 }
 
-.section-6 .container-section-6 {
+.section-6 .container {
     margin: 50px 400px 0px 400px;
     display: grid;
     grid-template-columns: repeat(2, calc(50% - 5px));
     gap: 40px;
 }
 
-.section-6 .cards-section-6 {
+.section-6 .cards {
     display: flex;
     flex-direction: column;
     align-items: center;

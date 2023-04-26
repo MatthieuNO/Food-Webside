@@ -4,15 +4,13 @@
     padding: 50px;
 }
 
-.section-2 .grid-section-2 {
+.section-2 .grid {
     display: grid;
     justify-content: center;
     grid-template-columns: 375px 375px 375px;
     height: 375px;
     grid-gap: 20px;
 }
-
-
 
 .section-2 h6 {
     display: flex;
@@ -26,7 +24,6 @@
 
 .titre-vege {
     background-image: url(../images/bol-végé.jpeg);
-    
 }
 
 .titre-salad {

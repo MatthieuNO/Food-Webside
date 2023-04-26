@@ -2,7 +2,7 @@
     background-color: #1a1a1a;
     padding: 50px;
 }
-.section-4 .grid-section-4 {
+.section-4 .grid {
     display: flex;
     justify-content: center;
     gap: 20px;
